@@ -1,0 +1,36 @@
+.footer{
+width: 100%;
+height: 18rem;
+color: #E0E5F3;
+background: #3B435A;
+border-radius: 0px;
+}
+.imageElement{
+    width: 8rem;
+height: 6rem;
+}
+.imageElement img{
+    position: absolute;
+    left: 4rem;
+    top: 1.2rem;
+}
+.company-about{
+    margin-top: 2rem;
+    grid-gap: 34rem;
+}
+.start_address{
+    position: relative;
+    right: -6rem;
+    bottom: 2rem;
+}
+.start_address span{
+    position: relative;
+    right: 1rem;
+    top: 2.6rem;
+}
+.location_icon{
+    font-size: 36px;
+position: relative;
+left: -1.6rem;
+}
+
