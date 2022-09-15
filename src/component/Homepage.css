@@ -1,0 +1,152 @@
+body {
+  background: #3b257a !important;
+}
+.homepage_service {
+  margin-top: 3rem;
+  margin-bottom: 9rem;
+}
+.service_heading_Button {
+  margin-bottom: 3rem;
+}
+.headingButton > span {
+  font-size: 2rem;
+  color: white;
+  font-weight: 700;
+}
+.headingButton a {
+  font-size: 1rem;
+  float: right;
+  margin-right: 1rem;
+  font-weight: 500;
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  border-radius: 2rem;
+  padding: 0.6rem;
+  width: 8%;
+  text-align: center;
+  background: #3b257a;
+}
+.box-collage-group .card {
+  background: #2f2355;
+  color: white;
+  padding: 1.3rem;
+  width: 38rem;
+  height: 32rem;
+}
+.card3_Col > span > img {
+    width: 8.25rem;
+    height: 12.25rem;
+    float: left;
+    margin-left: -9rem;
+    margin-top: 17rem;
+    transform: rotate(180deg);
+}
+.card-title {
+  margin-top: 1rem;
+  font-size: 2rem;
+  margin-bottom: 1.7rem;
+}
+.card-text {
+  line-height: 2rem;
+}
+.card-img-top {
+  width: 3.6rem;
+  height: 3.3rem;
+  margin-top: 4.5rem;
+  padding-left: 1rem;
+}
+
+.readMoreBtn > a {
+  color: white;
+  padding-left: 0.3rem;
+  text-decoration: none;
+}
+.card-body .readMoreBtn {
+  margin-top: 2.7rem;
+  border: 1px solid white;
+  width: 23%;
+  padding: 9px;
+  border-radius: 33px;
+}
+.latest_projects {
+  width: 100%;
+}
+.projects_heading h1 {
+  color: white;
+  text-align: center;
+  margin-bottom: 4rem;
+  font-size: 3rem;
+}
+.projects_image {
+  width: 34rem;
+  height: 31rem;
+}
+.projects_flexx {
+  gap: 6rem;
+}
+.projects_heading p {
+  margin-top: 2rem;
+  margin-left: 0.5rem;
+  height: 3rem;
+  width: 23rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: left;
+  color: white;
+}
+.projects_description > p {
+  color: white;
+  margin-left: 0.5rem;
+  margin-top: 2rem;
+  height: 5rem;
+  line-height: 1.8rem;
+  width: 553px;
+}
+.projects_heading > span > img {
+    float: right;
+    height: 10.5rem;
+    width:7rem;
+margin-right: -11rem;
+margin-top: 2rem;
+}
+.loadMore {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.blogs {
+  margin-top: 5rem;
+}
+.blog_h1 {
+  color: white;
+  margin-bottom: 2rem;
+}
+.blogs_image img {
+  width: 100%;
+  height: 20rem;
+  border-radius: 2rem;
+}
+.badge_image {
+  margin-top: 2rem;
+  margin-bottom: 1.4rem;
+}
+.blogs_para {
+  color: white;
+  font-weight: 700;
+  line-height: 1.6rem;
+}
+
+.blogs_button {
+  margin-top: 2rem;
+  border: 1px solid white;
+  width: 23%;
+  padding: 9px;
+
+  border-radius: 33px;
+}
+.blogs_button a {
+  color: white;
+  padding-left: 0.3rem;
+  text-decoration: none;
+}

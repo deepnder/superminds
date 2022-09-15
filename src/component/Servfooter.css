@@ -1,0 +1,34 @@
+body{
+   background:#283a58;
+   overflow-x: hidden;
+}
+
+
+
+ .services_page{
+    width: 100%;
+    color: white;
+ }
+ .services_h1{
+    width: 100%;
+    margin-top: 5rem;
+    margin-bottom: 3.5rem;
+ }
+ .services_h1 h1{
+    font-size:3rem;
+    font-weight: 700;
+ }
+ .service_starts > h3 > img {
+    width: 2rem;
+    margin-top: -0.4rem;
+ }
+ .service_starts > h3{
+margin-bottom: 2.4rem;
+ }
+ .service_starts > h3 > span {
+    font-size: 1.7rem;
+margin-left: 1rem;
+ }
+ .service_starts p{
+margin-bottom: 3rem;    
+ }

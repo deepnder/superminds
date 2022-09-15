@@ -1,11 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
-import Footer from './component/Footer';
+import Services from './component/Services';
+import Homepage from './component/Homepage';
 
 function App() {
   return (
   <>
-  <Footer/>
+<div className="container">
+  {/* <Homepage/> */}
+  {/* <Services/> */}
+</div>
   </>
   );
 }
